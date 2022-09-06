@@ -112,7 +112,7 @@ a:hover {
 input {
   background-image: none;
   border: 0;
-  color: black;
+  color: inherit;
   font: inherit;
   margin: 0;
   outline: 0;
@@ -147,7 +147,7 @@ input[type="submit"] {
 
 :root {
   --loginBorderRadus: 0.25rem;
-  --loginColor: #eee;
+  --loginColor: black;
 
   --loginInputBackgroundColor: white;
   --loginInputHoverBackgroundColor: #CBF1F5;
