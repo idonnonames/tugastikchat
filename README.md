@@ -9,3 +9,4 @@ websitenya: https://idonnonames.github.io/tugastikchat/
 - [ ] Login page
 - [ ] Sign up page
 - [ ] Chat
+- [ ] Database
