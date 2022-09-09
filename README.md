@@ -7,6 +7,6 @@ websitenya: https://idonnonames.github.io/tugastikchat/
 ## To do list:
 - [x] Make Github page
 - [x] Login page
-- [ ] Sign up page
+- [x] Sign up page
 - [ ] Chat
 - [ ] Database
