@@ -16,6 +16,7 @@
     max-width: 500px;
     margin: 0 auto;
     font-family: Helvetica, Arial, Sans, sans-serif;
+    border-radius: 0.25rem;
   }
   
   h1, .settings {
@@ -24,11 +25,20 @@
     font-size: 32px;
   }
   
-  .settings {
+  .dropdown {
     float: right;
     color: #606468;
     font-size: 28px;
+    background-color: none;
+  }
+
+  .dropdown button{
+    border: none;
+    background: none;
+    text-align: right;
+    color: #606468;
     font-style: italic;
+    font-size: 28px;
   }
   
   .chat {
@@ -37,10 +47,12 @@
     height: calc(100vh - 165px);
     background: white;
     padding: 5px 10px;
+    border-radius: 0.25rem;
   }
   
   .chat p {
     margin: 0 0 5px 0;
+    border-radius: 0.25rem;
   }
   
   input, button {
