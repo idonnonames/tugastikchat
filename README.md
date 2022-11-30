@@ -8,7 +8,8 @@ websitenya: https://idonnonames.github.io/tugastikchat/
 - [x] Make Github page
 - [x] Login page
 - [x] Sign up page
-- [ ] Chat
+- [x] Chat
 - [ ] ~~Database~~
 - [x] To do list
+- [x] Settings
 
