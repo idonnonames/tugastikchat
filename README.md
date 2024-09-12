@@ -1,5 +1,5 @@
 # Tugastikchat
-tugas bikin website tema komunikasi dari sekolah
+tugas bikin website dari sekolah
 
 websitenya: https://idonnonames.github.io/tugastikchat/
 
